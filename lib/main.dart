@@ -30,26 +30,8 @@ class MyApp extends StatelessWidget{
       theme: ThemeData(
         primaryColor: MainColors.primary.color,
       ),
-      home: Dashboard(title: "Dashboard"),
       initialRoute: DashboardRoute,
       onGenerateRoute: generateRoute,
     );
   }
 }
-
-class Dashboard extends StatefulWidget {
-  final String title;
-
-  Dashboard({@required this.title});
-
-  @override
-  _DashboardState createState() => _DashboardState();
-}
-
-class _DashboardState extends State<Dashboard> {
-  @override
-  Widget build(BuildContext context) {
-    return Container();
-  }
-}
-
