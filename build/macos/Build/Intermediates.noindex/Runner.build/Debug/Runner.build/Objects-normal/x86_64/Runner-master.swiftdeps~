@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "5c0494f946a71dcfeb989368a9b835de"
+build_time: [1591282965, 14586000]
+inputs:
+  "/Users/platoschild/FlutterWorkspace/Iota/iota_sacco/macos/Runner/MainFlutterWindow.swift": [1575816978, 601397360]
+  "/Users/platoschild/FlutterWorkspace/Iota/iota_sacco/macos/Runner/AppDelegate.swift": [1575816978, 598108297]
+  "/Users/platoschild/FlutterWorkspace/Iota/iota_sacco/macos/Flutter/GeneratedPluginRegistrant.swift": [1591282926, 962650764]
